@@ -1,2 +1,1 @@
-var q = $('ul.people li').addClass('fever').removeClass('people');
-console.log(q);
+// var g = G$(firstname, lastname, language);
